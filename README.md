@@ -20,5 +20,3 @@ Değerlendirme Metrikleri: Accuracy, F1 Skoru, Confusion Matrix
 📈 Sonuçlar:
 Farklı modelleri Accuracy ve F1 skoru üzerinden değerlendirdim. Ayrıca Confusion Matrix kullanarak sınıflandırma performansını detaylıca analiz ettim ve en uygun modeli belirledim.
 
-👨‍💻 Projeyi İnceleyin:
-GitHub: [GitHub linkini buraya ekleyebilirsin]
